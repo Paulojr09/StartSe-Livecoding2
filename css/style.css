@@ -111,7 +111,7 @@ form [type="submit"] {
 
 form [type="submit"]:hover {
     cursor: pointer;
-    background-color: rgba(0,128,237,0.75);
+    background-color: rgba(0, 128, 237, 0.75);
     transform: translateY(-2px);
 }
 
